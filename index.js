@@ -16,8 +16,7 @@ const ApiKeyCredentials = require('@azure/ms-rest-js').ApiKeyCredentials;
  * AUTHENTICATE
  * This single client is used for all examples.
  */
-const key = '35074228b393450690d5c9a4ac95c12b';
-const endpoint = 'https://fhlcomputervison.cognitiveservices.azure.com/';
+
 let urlList=[];
 let nonUrlList=[];
 
